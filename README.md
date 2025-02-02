@@ -10,4 +10,4 @@ This is a Git repository which serves as a playground to practice all things Git
 
 My name is a version of the Latin Blasius.
 Recently joined another choir in Malmo.
-Currently learning something new.
+Enthusiastic about learning today.
