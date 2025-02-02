@@ -15,7 +15,7 @@
 | ul                     | Bullet list                 |
 | ol                     | Ordered list                |
 | li                     | List item                   |
-| a                      | Link, use "src" for URL     |
+| a                      | Link, use "href" for URL    |
 | strong                 | Important or urgent         |
 | em                     | Emphasis                    |
 | hr                     | Horizontal line             |
