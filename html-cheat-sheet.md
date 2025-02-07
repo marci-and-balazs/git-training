@@ -21,3 +21,5 @@
 | hr                     | Horizontal line             |
 | div                    | Non-semantic block element  |
 | span                   | Non-semantic inline element |
+| code                   | Code                        |
+| Inequality symbols     | < = &lt; > = &gt;           |
