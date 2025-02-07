@@ -21,7 +21,5 @@
 | hr                     | Horizontal line             |
 | div                    | Non-semantic block element  |
 | span                   | Non-semantic inline element |
-| u                      | Underline Text              |
-| font color             | <font color="color code">   |
 | code                   | Code                        |
 | Inequality symbols     | < = &lt; > = &gt;           |
